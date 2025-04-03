@@ -32,16 +32,6 @@ Task Manager — это стильное и функциональное при�
 ### Документация API
 ![API Documentation](./screenshots/doc_api.png)
 
-### Управление задачами
-![Tasks Page](./screenshots/tasks-page.png)  
-*Создание и отслеживание задач*
-
-### API Документация
-![API Docs](./screenshots/api-docs.png)  
-*Swagger UI для работы с API*
-
-*(Добавьте свои скриншоты в папку `screenshots/` и обновите пути выше, если нужно)*
-
 ---
 ### API
 - **Основные эндпоинты**:
@@ -61,8 +51,16 @@ Task Manager — это стильное и функциональное при�
 ### Инструкция
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/task-manager.git
-   cd task-manager
+   git clone https://github.com/Afzalshoh02/task-management-system.git
+    ```
+   или через SSH:
+    ```bash
+    git@github.com:Afzalshoh02/task-management-system.git
+    ```
+   cd в папку проекта:
+   ```bash 
+    cd task-management-system
+    ```
 2. Установите зависимости:
    ```bash
    composer install
